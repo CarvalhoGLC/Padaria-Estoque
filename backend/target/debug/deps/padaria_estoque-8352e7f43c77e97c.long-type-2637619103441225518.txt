@@ -1,0 +1,2 @@
+fn(State<AppState>, axum::Json<ProductInput>) -> impl Future<Output = {type error}> {create_product}
+fn(State<AppState>, axum::Json<ProductInput>) -> impl Future<Output = {type error}> {create_product}: Handler<_, _>

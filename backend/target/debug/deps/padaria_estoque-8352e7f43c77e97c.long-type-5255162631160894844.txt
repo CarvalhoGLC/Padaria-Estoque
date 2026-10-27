@@ -1,0 +1,2 @@
+fn(State<AppState>, axum::Json<{type error}>) -> impl Future<Output = {type error}> {create_movement}
+fn(State<AppState>, axum::Json<{type error}>) -> impl Future<Output = {type error}> {create_movement}: Handler<_, _>

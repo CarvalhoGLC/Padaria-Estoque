@@ -1,0 +1,2 @@
+fn(State<AppState>, axum::extract::Path<i64>) -> impl Future<Output = {type error}> {delete_product}
+fn(State<AppState>, axum::extract::Path<i64>) -> impl Future<Output = {type error}> {delete_product}: Handler<_, AppState>

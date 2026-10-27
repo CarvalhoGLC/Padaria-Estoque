@@ -1,0 +1,2 @@
+fn(State<AppState>, axum::extract::Path<i64>, axum::Json<{type error}>) -> impl Future<Output = {type error}> {update_product}
+fn(State<AppState>, axum::extract::Path<i64>, axum::Json<{type error}>) -> impl Future<Output = {type error}> {update_product}: Handler<_, _>

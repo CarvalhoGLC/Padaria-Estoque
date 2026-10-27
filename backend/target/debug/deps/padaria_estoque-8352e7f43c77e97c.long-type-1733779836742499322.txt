@@ -1,0 +1,2 @@
+fn(State<AppState>, axum::extract::Query<{type error}>) -> impl Future<Output = {type error}> {list_products}
+fn(State<AppState>, axum::extract::Query<{type error}>) -> impl Future<Output = {type error}> {list_products}: Handler<_, _>

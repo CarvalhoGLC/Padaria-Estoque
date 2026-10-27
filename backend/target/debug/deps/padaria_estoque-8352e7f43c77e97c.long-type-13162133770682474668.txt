@@ -1,0 +1,2 @@
+fn(State<AppState>, axum::extract::Query<MovementFilter>) -> impl Future<Output = {type error}> {list_movements}
+fn(State<AppState>, axum::extract::Query<MovementFilter>) -> impl Future<Output = {type error}> {list_movements}: Handler<_, _>
